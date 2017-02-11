@@ -1,0 +1,39 @@
+IP Address:192.168.1.1
+
+21 FTP Open
+22 SSH Closed
+23 Telnet Closed
+25 SMTP Closed
+53 DNS Open
+67 DHCP Closed
+139 NETBIOS Closed
+80 HTTP Open
+443 HTTPS Open
+8080 Unknown Closed
+(TCP)Scan Time:16:54:09
+IP Address:216.58.212.3
+
+21 FTP Closed
+22 SSH Closed
+23 Telnet Closed
+25 SMTP Closed
+53 DNS Closed
+67 DHCP Closed
+139 NETBIOS Closed
+80 HTTP Open
+443 HTTPS Open
+8080 Unknown Closed
+(TCP)Scan Time:16:54:28
+IP Address:37.230.108.29
+
+21 FTP Open
+22 SSH Closed
+23 Telnet Closed
+25 SMTP Closed
+53 DNS Open
+67 DHCP Closed
+139 NETBIOS Closed
+80 HTTP Open
+443 HTTPS Open
+8080 Unknown Closed
+(TCP)Scan Time:16:54:45
